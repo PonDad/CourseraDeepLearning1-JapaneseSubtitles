@@ -13,4 +13,4 @@ Macでvttファイルを読み込める動画再生アプリをelectronで作り
 [VttPlayer
 ](https://github.com/PonDad/VttPlayer)
 
-こちらをクローンしてお使い下さい。
+よかったらこちらをクローンしてお使い下さい。
